@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Ищете работу? Приходите в Хекслет
+[Смотреть вакансии](https://www.notion.so/hexlet/c6406ed8890747e690d32b050faf42c2)
