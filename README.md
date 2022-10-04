@@ -1,7 +1,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/feycot/)
 
-[![](https://github-readme-stats.vercel.app/api?username=fey)](https://github.com/fey)
-
 [![](https://www.codewars.com/users/fey/badges/micro)](https://www.codewars.com/users/fey) ![visitors](https://visitor-badge.glitch.me/badge?page_id=fey.fey)
 
 [https://codebattle.hexlet.io/users/252](https://codebattle.hexlet.io/users/252)
